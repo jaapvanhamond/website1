@@ -1,0 +1,59 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 5px;
+	background-color: #ECECEC;
+}
+
+header h1{
+	font-size: 18px;
+}
+
+header{
+	letter-spacing: 2px;
+}
+
+.menu ul{
+	list-style: none;
+	padding: 0;
+	margin: 25px 0;
+}
+
+.menu ul li{
+	margin: 0px 0 5px 0;
+}
+
+.menu a{
+	text-decoration: none;
+	color: #000000
+}
+
+.menu a:hover{
+	color: #0000ff;
+	font-weight: bold;
+	letter-spacing: 8px;
+}
+
+.contact ul{
+	list-style: none;
+	width: 25em;
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.contact ul li{
+	margin: 0px 0 20px 0;
+}
+
+.contact a{
+	text-decoration: none;
+	color: #000000
+}
+
+.contact a:hover{
+	color: #0000ff;
+	font-weight: bold;
+	letter-spacing: 8px;
+}
+
