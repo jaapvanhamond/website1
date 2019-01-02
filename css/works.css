@@ -35,14 +35,29 @@ header{
 }
 
 p{
-	width: 25em;
+	width: 40em;
 	text-align: justify;
 	margin-left: auto;
 	margin-right: auto;
-
 }
 
 .works ul{
 	list-style: none;
 }
 
+.works a{
+	text-decoration: none;
+	color: #000000
+}
+
+.works a:hover{
+	color: #0000ff;
+	font-weight: bold;
+	letter-spacing: 8px;
+}
+
+h3{
+	margin-left: 9em;
+	margin-right: auto;
+	text-decoration: underline;
+}

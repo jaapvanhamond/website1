@@ -35,14 +35,15 @@ header{
 }
 
 p{
-	width: 25em;
+	width: 40em;
 	text-align: justify;
 	margin-left: auto;
 	margin-right: auto;
-
 }
 
 .events ul{
 	list-style: none;
 }
+
+
 
