@@ -1,0 +1,9 @@
+- contact page toevoegen: ook beschikbaar voor sccoring
+- Event page format: <strong>Month ??</strong> CITY, COUNTRY Venue (Live/DJ as ___)
+- Event page splitten in past en upcoming
+- Works page: discography centered (a la chuck johnson), bandcamp widgets?
+- About page in 3rd person? :') Debuut album noemen? Veel dikgedrukte dingen haha
+- Photos --> media: video, photo, sound
+- Press categorie? flexen met reviews, quotes, interviews etc
+- "Please send all correspondence to:"
+
