@@ -34,21 +34,15 @@ header{
 	letter-spacing: 8px;
 }
 
-.events ul{
-	list-style: none;
-	width: 40em;
+p{
+	width: 25em;
 	text-align: justify;
 	margin-left: auto;
 	margin-right: auto;
+
 }
 
-.events ul li{
-	margin: 0px 0 10px 0;
+.media ul{
+	list-style: none;
 }
-
-.listheader{
-	font-size: 23px;
-}
-
-
 
