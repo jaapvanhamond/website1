@@ -41,7 +41,7 @@ header{
 }
 
 .media ul li{
-	margin: 0px auto 10px 0px;
+	margin: 0px auto 0px 0px;
 }
 
 video{
@@ -52,3 +52,13 @@ video{
 	height: 100%;
 }
 
+.listheader{
+	font-size: 23px;
+}
+
+.caption{
+	font-style: italic;
+	max-width: 640px;
+	width: 100%;
+	text-align: right;
+}
