@@ -35,9 +35,11 @@ header{
 }
 
 .works ul{
+	text-align: left;
 	list-style: none;
-	width: 40em;
-	text-align: justify;
+	display: table;
+	max-width: 60em;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -47,16 +49,21 @@ header{
 }
 
 .works a{
-	text-decoration: none;
+	text-decoration: underline;
+	font-style: italic;
 	color: #000000
 }
 
 .works a:hover{
+	text-decoration: none;
 	color: #0000ff;
 	font-weight: bold;
-	letter-spacing: 8px;
+	letter-spacing: 4px;
 }
 
 .listheader{
 	font-size: 23px;
+	text-decoration: underline;
+	font-weight: bold;
 }
+
