@@ -35,14 +35,57 @@ header{
 }
 
 .press ul{
+	text-align: left;
 	list-style: none;
-	width: 40em;
-	text-align: justify;
+	max-width: 60em;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0;
+}
+
+.press ul li{
+	font-style: none;
+	margin: 0px 0 20px 0;
+}
+
+.press a{
+	text-decoration: none;
+	font-style: none;
+	color: #0000ff;
+}
+
+.press a:hover{
+	text-decoration: none;
+	color: #0000ff;
+	font-weight: bold;
+	letter-spacing: 4px;
+}
+
+.listheader{
+	font-size: 23px;
+	text-decoration: underline;
+	font-weight: bold;
+	text-align: left;
+}
+
+.image_box {
+	max-width: 60em;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-.press ul li{
-	font-style: italic;
+.shots{
+	max-width: 32%;
+	width: auto;
+	float: left;
+	margin-left: 0;
+	margin-right: 1%;
 }
 
+.shots img{
+	width: 100%;
+	height: auto;
+	margin-top: 2%;
+}

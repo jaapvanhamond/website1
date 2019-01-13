@@ -35,12 +35,13 @@ header{
 }
 
 .events ul{
-	text-align: justify;
+	text-align: left;
 	list-style: none;
 	max-width: 60em;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 0;
 }
 
 .events ul li{

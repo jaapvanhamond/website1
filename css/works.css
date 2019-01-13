@@ -37,11 +37,11 @@ header{
 .works ul{
 	text-align: left;
 	list-style: none;
-	display: table;
 	max-width: 60em;
 	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
+	padding: 0;
 }
 
 .works ul li{
