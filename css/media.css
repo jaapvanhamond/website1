@@ -85,3 +85,13 @@ iframe{
     width: 100%;
     height: 100%;
 }
+
+.video{
+	width: 50%;
+}
+
+@media only screen and (max-width:900px) {
+		.video {
+		width: 100%;
+	}
+}
